@@ -29,8 +29,8 @@ function createPerson (name, age) {
     };
 }
 
-let craig = createPerson('Lora', 18);
-console.log(craig.age);
+let lora = createPerson('Lora', 18);
+console.log(lora.age);
 ```
 
 Notice that here we're using another "built-in" object, `console`. `console` is a powerful object that helps us to debug our code!
