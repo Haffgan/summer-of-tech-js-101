@@ -28,7 +28,7 @@ Let's have a go at making our own variable in the console. Create a new variable
 You might write something like this:
 
 ```javascript
-let myName = 'Craig Spence';
+let myName = 'Lora';
 ```
 
 Check that the variable is working by accessing it from the console:
