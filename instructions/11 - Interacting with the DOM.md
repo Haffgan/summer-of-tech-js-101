@@ -59,6 +59,7 @@ After that, for a real challenge, have a go at a **Paper Scissors Rock** game. T
 ## DONE! 🎉🎉🎉
 
 That's it! I hope you enjoyed JS101, and I hope you found it useful!
+To learn more, build lots of things! Try the [30 Day Vanilla JS Coding Challenge - Build 30 things in 30 days with 30 tutorials](https://javascript30.com/)!
 
 ## More info:
 
