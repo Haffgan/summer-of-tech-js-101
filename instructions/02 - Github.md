@@ -10,7 +10,7 @@ Code is stored in a *repository*, and can be *forked* to make changes, which can
 
 ## Try it out!
 
-First, go to the main page of this repository at https://github.com/phenomnomnominal/summer-of-tech-js-101.
+First, go to the main page of this repository at https://github.com/lorabv/summer-of-tech-js-101.
 
 Then you need to click the "**Clone or download**" button.
 
