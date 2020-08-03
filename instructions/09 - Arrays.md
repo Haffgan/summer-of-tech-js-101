@@ -43,8 +43,8 @@ let squared = myArray.map(function (number) {
 ### `reduce`:
 
 ```javascript
-let sum = myArray.reduce(function (previous, next) {
-    return previous + next;
+let sum = myArray.reduce(function (accumulator, currentValue) {
+    return accumulator + currentValue;
 }, 0);
 ```
 
